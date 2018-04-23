@@ -1,0 +1,33 @@
+C:\Users\Craig\AppData\Local\Temporary Projects\Progress savvy animation\bin\Debug\Progress savvy animation.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\Progress savvy animation\bin\Debug\Progress savvy animation.pdb
+C:\Users\Craig\AppData\Local\Temporary Projects\Progress savvy animation\bin\Debug\Progress savvy animation.xml
+C:\Users\Craig\AppData\Local\Temporary Projects\Progress savvy animation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Craig\AppData\Local\Temporary Projects\Progress savvy animation\obj\x86\Debug\Progress_savvy_animation.Form1.resources
+C:\Users\Craig\AppData\Local\Temporary Projects\Progress savvy animation\obj\x86\Debug\Progress_savvy_animation.Resources.resources
+C:\Users\Craig\AppData\Local\Temporary Projects\Progress savvy animation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Craig\AppData\Local\Temporary Projects\Progress savvy animation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Craig\AppData\Local\Temporary Projects\Progress savvy animation\obj\x86\Debug\Progress savvy animation.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\Progress savvy animation\obj\x86\Debug\Progress savvy animation.xml
+C:\Users\Craig\AppData\Local\Temporary Projects\Progress savvy animation\obj\x86\Debug\Progress savvy animation.pdb
+F:\Files\Software design\Programs\V.B programs\G.U.I\Progressbar simulation\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress savvy animation.exe
+F:\Files\Software design\Programs\V.B programs\G.U.I\Progressbar simulation\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress savvy animation.xml
+F:\Files\Software design\Programs\V.B programs\G.U.I\Progressbar simulation\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress savvy animation.pdb
+F:\Files\Software design\Programs\V.B programs\G.U.I\Progressbar simulation\V3\Progress savvy animation\Progress savvy animation\bin\Debug\Progress savvy animation.exe
+F:\Files\Software design\Programs\V.B programs\G.U.I\Progressbar simulation\V3\Progress savvy animation\Progress savvy animation\bin\Debug\Progress savvy animation.pdb
+F:\Files\Software design\Programs\V.B programs\G.U.I\Progressbar simulation\V3\Progress savvy animation\Progress savvy animation\bin\Debug\Progress savvy animation.xml
+F:\Files\Software design\Programs\V.B programs\G.U.I\Progressbar simulation\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Files\Software design\Programs\V.B programs\G.U.I\Progressbar simulation\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress_savvy_animation.Form1.resources
+F:\Files\Software design\Programs\V.B programs\G.U.I\Progressbar simulation\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress_savvy_animation.Resources.resources
+F:\Files\Software design\Programs\V.B programs\G.U.I\Progressbar simulation\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Files\Software design\Programs\V.B programs\G.U.I\Progressbar simulation\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Files\Software design\Programs\V.B programs\G.U.I\Progressbar simulation\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress_savvy_animation.Retry.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Progressbars\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress savvy animation.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Progressbars\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress savvy animation.xml
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Progressbars\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress savvy animation.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Progressbars\V3\Progress savvy animation\Progress savvy animation\bin\Debug\Progress savvy animation.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Progressbars\V3\Progress savvy animation\Progress savvy animation\bin\Debug\Progress savvy animation.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Progressbars\V3\Progress savvy animation\Progress savvy animation\bin\Debug\Progress savvy animation.xml
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Progressbars\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress_savvy_animation.Form1.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Progressbars\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress_savvy_animation.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Progressbars\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress_savvy_animation.Retry.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Progressbars\V3\Progress savvy animation\Progress savvy animation\obj\x86\Debug\Progress savvy animation.vbproj.GenerateResource.Cache
